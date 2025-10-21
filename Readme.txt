@@ -1,1 +1,1 @@
-The lb_data_logistic file contains the data analysis and the lb_transformers contains the bert trained transformers. I exhaused all the computing units and therefore was not able to produce a single jupiter notebook.
+The lb_data_logistic file contains the data analysis and the lb_transformers contains the bert trained transformers. This project was completed in 2024 January.
